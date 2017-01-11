@@ -1,10 +1,10 @@
 {
-  "name": "react-native-router-flux",
-  "version": "3.37.0",
-  "description": "React Native Router using Flux architecture",
+  "name": "papua-react-native-router-flux",
+  "version": "0.0.1",
+  "description": "Original Customized react-native-router-flux",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aksonov/react-native-router-flux"
+    "url": "git+https://github.com/papuaaaaaaa/react-native-router-flux.git"
   },
   "main": "index.js",
   "typings": "index.d.ts",
@@ -24,18 +24,8 @@
     "router",
     "navigation"
   ],
-  "author": {
-    "name": "Pavlo Aksonov",
-    "email": "akso.nov@gmail.com",
-    "url": "http://aksonov.com"
-  },
+  "author": "papua",
   "license": "MIT",
-  "maintainers": [
-    {
-      "name": "aksonov",
-      "email": "pavlo.aksonov@gmail.com"
-    }
-  ],
   "dependencies": {
     "react-addons-pure-render-mixin": "15.0.2",
     "react-native-experimental-navigation": "0.26.x",
@@ -67,5 +57,13 @@
     "react-native": "0.26.x",
     "react-native-mock": "0.2.0",
     "sinon": "^1.17.6"
+  },
+  "bugs": {
+    "url": "https://github.com/papuaaaaaaa/react-native-router-flux/issues"
+  },
+  "homepage": "https://github.com/papuaaaaaaa/react-native-router-flux#readme",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
   }
 }
